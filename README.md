@@ -1,7 +1,3 @@
-**JuanferCalle/JuanferCalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
----
-
 ### 👋 About Me  
 I'm currently a **Systems Engineering student at Universidad del Valle** in Colombia. I'm passionate about technology, programming, and learning new tools to solve real-world problems.
 
